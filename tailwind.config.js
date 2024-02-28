@@ -6,3 +6,5 @@ module.exports = {
   },
   plugins: [],
 }
+/*. Bu dosya, Tailwind CSS'in yapılandırılmasını sağlar ve hangi stillerin projede kullanılacağını belirler.
+ */

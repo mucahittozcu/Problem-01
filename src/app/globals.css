@@ -1,3 +1,9 @@
 @tailwind base;
+ /* Bu komut, Tailwind CSS'in temel stillerini (base styles) etkinleştirir. Temel stiller, HTML elementlerinin varsayılan tarayıcı stillerini sıfırlar ve bir temel oluşturur. Örneğin, metin boyutları, yazı tipi ailesi ve diğer varsayılan stiller bu temelde tanımlanır. */
+
 @tailwind components;
+/* Bu komut, Tailwind CSS'in bileşenlerini (component styles) etkinleştirir. Bileşen stilleri, daha genel ve tekrar kullanılabilir arayüz bileşenleri için önceden tanımlanmış stilleri içerir. Örneğin, düğmeler, form elemanları ve benzeri arayüz öğeleri bu bileşenler arasında yer alır. */
+
+
 @tailwind utilities;
+/* Bu komut, Tailwind CSS'in yardımcı sınıflarını (utility styles) etkinleştirir. Yardımcı sınıflar, daha küçük ve spesifik stilleri hızlı bir şekilde uygulamak için kullanılır. Örneğin, renkler, boyutlar, kenar boşlukları ve hizalamalar bu yardımcı sınıflar arasında yer alır. */
